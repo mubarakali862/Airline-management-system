@@ -1,0 +1,5 @@
+# Airline-management-system
+
+Problem: This project on Flight Management System is the automation of registration process of airline system. The system is able to provide much information like passenger's details, flight details and the booking details. The system allows us to add records when a passenger reserves a ticket. It also allows to delete and update the records based on passenger's requirements. For data storage and retrieval we use the MySql database. It enables us to add any number of records in our database from the frontend which is java core. Any changes made in the frontend will be reflected at the backend.
+
+Solution: Electronically handling of flights record to enhance the accuracy, flexibility, reliability and to remove humans error. An airline provides air transport services for passengers, generally with a recognize operating. To provide accurate information about the addition, deletion and modified record. To provide, efficient, accurate. reliable, fast and robust structure that can handle any number of records. The global airline industry continues to grow rapidly, but consistent and robust profitability is elusive.
